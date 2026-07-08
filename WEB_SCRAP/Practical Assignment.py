@@ -54,8 +54,10 @@ response = requests.get(url)
 soup = BeautifulSoup(response.text, "html.parser")
 
 div_tag = soup.find_all("div", class_="row")
+div_tag = soup.select("div.row")
 
 print("Number of product cards on the first page:", len(div_tag))
+print(div_tag)
 
 '''
 
@@ -336,7 +338,7 @@ else:
 
 # Q15. Final Challenge: Scrape BOTH the Laptops and Phones sections. Collect name, price, description, rating, reviews for all products from all pages.
 # Add a 'category' column. Save to ecommerce_data.csv.
-
+'''
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -421,3 +423,24 @@ with open("ecommerce_data.csv", "w", newline="", encoding="utf-8") as file:
 
 print("\nData saved successfully!")
 print(f"Total products scraped: {len(all_products)}")
+
+'''
+
+
+import requests
+from bs4 import BeautifulSoup
+
+
+url = "https://webscraper.io/test-sites/e-commerce/allinone/"
+
+response = requests.get(url)
+soup = BeautifulSoup(response.text, "html.parser")
+
+# div_tag = soup.find_all("div", class_="row")
+div_tag = soup.select("div.row")
+
+# print("Number of product cards on the first page:", len(div_tag))
+print(div_tag)
+
+
+
