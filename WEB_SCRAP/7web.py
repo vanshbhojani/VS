@@ -84,7 +84,7 @@ for i in range(1,11):
 
     driver.quit()
 '''
-
+'''
 for i in range(1,11):
     driver =webdriver.Chrome()
 
@@ -103,5 +103,27 @@ for i in range(1,11):
 
     driver.quit()    
 
-        
+'''
+
+for i in range(1,11):
+    driver = webdriver.Chrome()
+
+    driver.get(f"https://quotes.toscrape.com/js/page/{i}")
+
+    WebDriverWait(driver,10).until(
+        EC.presence_of_all_elements_located((By.CLASS_NAME,"tag"))
+    )
+
+    tag_item =driver.find_elements(By.CLASS_NAME,"tag")
+
+    tag =driver.find_element(By.CLASS_NAME,'a')
+
+    print(f"-------page{i} ------------")
+
+    for i in tag_item:
+        tag = i.find_elements(By.TAG_NAME,"a")
+        print(tag[0].text)
+        # print(tag.get_attribute("href"))
+
+    driver.quit()    
 
