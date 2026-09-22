@@ -1,4 +1,5 @@
-#Q1. Open the Laptops page in your browser. Use DevTools (F12) to inspect the HTML. Identify the tag and class name used for: product name, price, description, star rating, and number of reviews.
+#Q1. Open the Laptops page in your browser. Use DevTools (F12) to inspect the HTML. Identify the tag and class name used for: product name, price,
+#  description, star rating, and number of reviews.
 
 
 '''
@@ -441,6 +442,8 @@ div_tag = soup.select("div.row")
 
 # print("Number of product cards on the first page:", len(div_tag))
 print(div_tag)
+
+
 
 
 

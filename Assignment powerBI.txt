@@ -1,0 +1,17 @@
+q1 2
+
+| Component                  | Short Description                                                                                                                                                                |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Report View         | Used to create and design report pages using charts, tables, cards, slicers, and other visuals. This is where you build the dashboard users will see.                            |
+| 2. Data View           | Displays the actual data stored in your tables. You can inspect rows, columns, and data types before using the data in visuals.                                                  |
+| 3. Model View          | Shows the relationships between tables in your data model. You can create and manage relationships such as **One-to-Many** here.                                                 |
+| 4. Fields Pane         | Contains all available tables, columns, and measures in the data model. You drag these fields into visuals to analyze your data.                                                 |
+| 5. Visualizations Pane | Provides options to select and format visual types such as bar charts, line charts, cards, and pie charts. It also lets you configure fields, formatting, and visual properties. |
+| 6. Filters Pane        | Used to filter the data displayed in a visual, report page, or entire report. Filters can be applied at **visual, page, or report level**.                                       |
+
+q1 4 
+
+1 data cleaning are deferent 
+2 i can parform a join in power BI 
+3 in power Bi data can cleaning usning power query 
+

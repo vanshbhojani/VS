@@ -1,0 +1,10 @@
+
+name,marks,gender,age
+vansh,45,male,25
+meet,65,female,25
+jay,78,male,25
+sumsung,98,male,
+puja,25,female,25
+mitali,85,male,25
+vijay,,male,25
+ramesh,68,male,25
