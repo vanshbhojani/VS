@@ -1,0 +1,301 @@
+OrderID,City,OrderDate,DeliveryStatus,OrderAmount,CustomerName,Phone,CustomerID,RestaurantID,RestaurantName,Cuisine
+ORD1020,Mumbai,01 Jan 2026,Delivered,607.33,Pooja Iyer,9876543221,C012,R004,Sea Breeze Grill,Seafood
+ORD1134,Hyderabad,01 Jan 2026,Delivered,579.35,Nikhil Jain,9876543224,C015,R010,Nizam's Table,Mughlai
+ORD1137,Ahmedabad,01 Jan 2026,Delivered,417.23,Sneha Patel,9876543215,C006,R011,Gujarat Thali Home,Gujarati
+ORD1256,Bangalore,01 Jan 2026,Out for Delivery,386.08,Aman Verma,9876543212,C003,R006,Silicon Spice,Multi-Cuisine
+ORD1294,Hyderabad,01 Jan 2026,Delivered,545.14,Arjun Mehta,9876543214,C005,R010,Nizam's Table,Mughlai
+ORD1019,Mumbai,02 Jan 2026,Cancelled,"1,027.72",Priya Singh,9876543211,C002,R003,Bombay Bites,Street Food
+ORD1104,Lucknow,02 Jan 2026,Cancelled,241.87,Harsh Vardhan,9876543234,C025,R019,Tunday Kababi Corner,Awadhi
+ORD1091,Kochi,03 Jan 2026,Delivered,490.33,Kavya Nair,9876543217,C008,R016,Fort Kochi Seafoods,Seafood
+ORD1129,Pune,03 Jan 2026,Pending,570.49,Simran Kaur,9876543223,C014,R007,Puneri Misal House,Maharashtrian
+ORD1274,Chennai,03 Jan 2026,Delivered,442.36,Divya Menon,9876543225,C016,R014,Chettinad Corner,Chettinad
+ORD1096,Kolkata,04 Jan 2026,Delivered,315.76,Sahil Khan,9876543226,C017,R021,Bong Bhoj,Bengali
+ORD1145,Pune,04 Jan 2026,Delivered,912.70,Neha Gupta,9876543213,C004,R008,Deccan Diner,Continental
+ORD1154,Mumbai,04 Jan 2026,Delivered,857.72,Riya Kapoor,9876543231,C022,R004,Sea Breeze Grill,Seafood
+ORD1178,Jaipur,04 Jan 2026,Delivered,184.58,Rohan Kapoor,9876543218,C009,R018,Royal Thali Palace,Rajasthani
+ORD1249,Mumbai,04 Jan 2026,Delivered,"1,148.24",Priya Singh,9876543211,C002,R003,Bombay Bites,Street Food
+ORD1281,Hyderabad,04 Jan 2026,Delivered,734.23,Nikhil Jain,9876543224,C015,R009,Hyderabadi Biryani House,Biryani
+ORD1075,Bangalore,05 Jan 2026,Out for Delivery,903.73,Yash Thakur,9876543232,C023,R005,Namma Bangalore Cafe,South Indian
+ORD1179,Bangalore,05 Jan 2026,Delivered,417.55,Mohit Agarwal,9876543222,C013,R006,Silicon Spice,Multi-Cuisine
+ORD1196,Mumbai,05 Jan 2026,Cancelled,500.82,Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1076,Mumbai,06 Jan 2026,Delivered,385.80,Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1121,Chennai,06 Jan 2026,Pending,639.88,Vikram Rao,9876543216,C007,R013,Marina Meals,South Indian
+ORD1158,Bangalore,06 Jan 2026,Cancelled,379.63,Mohit Agarwal,9876543222,C013,R005,Namma Bangalore Cafe,South Indian
+ORD1209,Kolkata,06 Jan 2026,Out for Delivery,"1,092.76",Ishita Das,9876543227,C018,R021,Bong Bhoj,Bengali
+ORD1143,Delhi,07 Jan 2026,Delivered,378.00,Karan Malhotra,9876543220,C011,R002,Karim's Kitchen,Mughlai
+ORD1024,Hyderabad,08 Jan 2026,Delivered,629.44,Arjun Mehta,9876543214,C005,R009,Hyderabadi Biryani House,Biryani
+ORD1073,Bangalore,08 Jan 2026,Delivered,"1,060.03",Aman Verma,9876543212,C003,R005,Namma Bangalore Cafe,South Indian
+ORD1116,Bangalore,08 Jan 2026,Pending,577.96,Mohit Agarwal,9876543222,C013,R006,Silicon Spice,Multi-Cuisine
+ORD1210,Jaipur,08 Jan 2026,Delivered,926.73,Rohan Kapoor,9876543218,C009,R017,Pink City Rasoi,Rajasthani
+ORD1212,Mumbai,08 Jan 2026,Delivered,802.65,Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1247,Kolkata,08 Jan 2026,Delivered,957.00,Sahil Khan,9876543226,C017,R021,Bong Bhoj,Bengali
+ORD1060,Lucknow,09 Jan 2026,Delivered,862.86,Anjali Joshi,9876543219,C010,R020,Nawabi Nights,Mughlai
+ORD1100,Kolkata,09 Jan 2026,Delivered,419.48,Ishita Das,9876543227,C018,R022,Park Street Diner,Continental
+ORD1108,Delhi,09 Jan 2026,Out for Delivery,"1,167.47",Karan Malhotra,9876543220,C011,R002,Karim's Kitchen,Mughlai
+ORD1171,Mumbai,09 Jan 2026,Delivered,817.09,Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1180,Delhi,09 Jan 2026,Delivered,702.92,Rahul Sharma,9876543210,C001,R001,Delhi Darbar,North Indian
+ORD1185,Mumbai,09 Jan 2026,Delivered,212.10,Riya Kapoor,9876543231,C022,R004,Sea Breeze Grill,Seafood
+ORD1006,Mumbai,10 Jan 2026,Delivered,486.25,Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1153,Pune,10 Jan 2026,Delivered,515.83,Tanya Sethi,9876543233,C024,R007,Puneri Misal House,Maharashtrian
+ORD1011,Kochi,11 Jan 2026,Delivered,663.58,Kavya Nair,9876543217,C008,R015,Kerala Backwater Kitchen,Kerala
+ORD1139,Jaipur,11 Jan 2026,Delivered,486.36,Varun Bansal,9876543228,C019,R017,Pink City Rasoi,Rajasthani
+ORD1261,Jaipur,11 Jan 2026,Pending,"1,127.07",Varun Bansal,9876543228,C019,R018,Royal Thali Palace,Rajasthani
+ORD1002,Bangalore,12 Jan 2026,Delivered,762.63,Yash Thakur,9876543232,C023,R005,Namma Bangalore Cafe,South Indian
+ORD1025,Mumbai,12 Jan 2026,Delivered,758.12,Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1038,Pune,12 Jan 2026,Delivered,659.48,Neha Gupta,9876543213,C004,R007,Puneri Misal House,Maharashtrian
+ORD1195,Chennai,12 Jan 2026,Pending,680.32,Vikram Rao,9876543216,C007,R013,Marina Meals,South Indian
+ORD1288,Lucknow,12 Jan 2026,Delivered,489.57,Harsh Vardhan,9876543234,C025,R020,Nawabi Nights,Mughlai
+ORD1217,Hyderabad,13 Jan 2026,Out for Delivery,229.54,Arjun Mehta,9876543214,C005,R010,Nizam's Table,Mughlai
+ORD1021,Pune,15 Jan 2026,Out for Delivery,"1,149.23",Tanya Sethi,9876543233,C024,R008,Deccan Diner,Continental
+ORD1131,Ahmedabad,15 Jan 2026,Delivered,693.46,Meera Shah,9876543229,C020,R012,Manek Chowk Bites,Street Food
+ORD1138,Delhi,15 Jan 2026,Delivered,436.83,Aditya Roy,9876543230,C021,R002,Karim's Kitchen,Mughlai
+ORD1266,Bangalore,15 Jan 2026,Delivered,651.26,Yash Thakur,9876543232,C023,R005,Namma Bangalore Cafe,South Indian
+ORD1127,Pune,16 Jan 2026,Out for Delivery,376.26,Simran Kaur,9876543223,C014,R008,Deccan Diner,Continental
+ORD1001,Mumbai,17 Jan 2026,Out for Delivery,300.15,Pooja Iyer,9876543221,C012,R004,Sea Breeze Grill,Seafood
+ORD1027,Mumbai,17 Jan 2026,Delivered,437.30,Riya Kapoor,9876543231,C022,R004,Sea Breeze Grill,Seafood
+ORD1061,Mumbai,17 Jan 2026,Delivered,"1,080.49",Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1093,Pune,17 Jan 2026,Delivered,918.64,Tanya Sethi,9876543233,C024,R008,Deccan Diner,Continental
+ORD1194,Jaipur,17 Jan 2026,Delivered,468.96,Varun Bansal,9876543228,C019,R017,Pink City Rasoi,Rajasthani
+ORD1233,Delhi,17 Jan 2026,Pending,383.51,Rahul Sharma,9876543210,C001,R001,Delhi Darbar,North Indian
+ORD1244,Hyderabad,17 Jan 2026,Delivered,207.44,Arjun Mehta,9876543214,C005,R009,Hyderabadi Biryani House,Biryani
+ORD1086,Delhi,18 Jan 2026,Delivered,634.74,Karan Malhotra,9876543220,C011,R001,Delhi Darbar,North Indian
+ORD1112,Ahmedabad,18 Jan 2026,Delivered,"1,148.96",Meera Shah,9876543229,C020,R011,Gujarat Thali Home,Gujarati
+ORD1296,Jaipur,18 Jan 2026,Delivered,"1,051.53",Rohan Kapoor,9876543218,C009,R018,Royal Thali Palace,Rajasthani
+ORD1008,Mumbai,19 Jan 2026,Delivered,335.02,Riya Kapoor,9876543231,C022,R004,Sea Breeze Grill,Seafood
+ORD1033,Bangalore,19 Jan 2026,Delivered,967.38,Yash Thakur,9876543232,C023,R006,Silicon Spice,Multi-Cuisine
+ORD1043,Delhi,19 Jan 2026,Delivered,208.10,Aditya Roy,9876543230,C021,R001,Delhi Darbar,North Indian
+ORD1125,Ahmedabad,19 Jan 2026,Delivered,344.89,Meera Shah,9876543229,C020,R011,Gujarat Thali Home,Gujarati
+ORD1231,Kochi,19 Jan 2026,Delivered,224.88,Kavya Nair,9876543217,C008,R015,Kerala Backwater Kitchen,Kerala
+ORD1240,Mumbai,19 Jan 2026,Delivered,"1,102.80",Priya Singh,9876543211,C002,R003,Bombay Bites,Street Food
+ORD1265,Mumbai,19 Jan 2026,Cancelled,627.57,Pooja Iyer,9876543221,C012,R004,Sea Breeze Grill,Seafood
+ORD1041,Kolkata,20 Jan 2026,Pending,984.92,Sahil Khan,9876543226,C017,R022,Park Street Diner,Continental
+ORD1088,Bangalore,21 Jan 2026,Delivered,522.04,Aman Verma,9876543212,C003,R006,Silicon Spice,Multi-Cuisine
+ORD1232,Chennai,21 Jan 2026,Delivered,342.40,Vikram Rao,9876543216,C007,R014,Chettinad Corner,Chettinad
+ORD1241,Mumbai,22 Jan 2026,Pending,515.12,Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1064,Hyderabad,23 Jan 2026,Delivered,504.90,Nikhil Jain,9876543224,C015,R010,Nizam's Table,Mughlai
+ORD1115,Pune,23 Jan 2026,Delivered,"1,099.60",Simran Kaur,9876543223,C014,R007,Puneri Misal House,Maharashtrian
+ORD1146,Pune,23 Jan 2026,Delivered,993.01,Tanya Sethi,9876543233,C024,R008,Deccan Diner,Continental
+ORD1175,Pune,23 Jan 2026,Cancelled,432.38,Simran Kaur,9876543223,C014,R008,Deccan Diner,Continental
+ORD1031,Lucknow,24 Jan 2026,Out for Delivery,548.99,Anjali Joshi,9876543219,C010,R019,Tunday Kababi Corner,Awadhi
+ORD1109,Ahmedabad,24 Jan 2026,Delivered,256.11,Meera Shah,9876543229,C020,R012,Manek Chowk Bites,Street Food
+ORD1148,Mumbai,25 Jan 2026,Delivered,955.68,Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1182,Delhi,25 Jan 2026,Delivered,556.08,Aditya Roy,9876543230,C021,R002,Karim's Kitchen,Mughlai
+ORD1018,Hyderabad,26 Jan 2026,Delivered,264.64,Nikhil Jain,9876543224,C015,R010,Nizam's Table,Mughlai
+ORD1082,Bangalore,26 Jan 2026,Delivered,382.60,Yash Thakur,9876543232,C023,R005,Namma Bangalore Cafe,South Indian
+ORD1165,Kochi,26 Jan 2026,Delivered,664.69,Kavya Nair,9876543217,C008,R015,Kerala Backwater Kitchen,Kerala
+ORD1224,Delhi,26 Jan 2026,Delivered,846.17,Rahul Sharma,9876543210,C001,R002,Karim's Kitchen,Mughlai
+ORD1237,Bangalore,26 Jan 2026,Delivered,219.59,Aman Verma,9876543212,C003,R006,Silicon Spice,Multi-Cuisine
+ORD1054,Ahmedabad,28 Jan 2026,Delivered,462.46,Sneha Patel,9876543215,C006,R011,Gujarat Thali Home,Gujarati
+ORD1080,Mumbai,28 Jan 2026,Cancelled,288.41,Riya Kapoor,9876543231,C022,R004,Sea Breeze Grill,Seafood
+ORD1135,Chennai,28 Jan 2026,Delivered,408.28,Divya Menon,9876543225,C016,R014,Chettinad Corner,Chettinad
+ORD1160,Ahmedabad,28 Jan 2026,Delivered,962.00,Sneha Patel,9876543215,C006,R012,Manek Chowk Bites,Street Food
+ORD1177,Delhi,28 Jan 2026,Out for Delivery,716.83,Karan Malhotra,9876543220,C011,R002,Karim's Kitchen,Mughlai
+ORD1268,Jaipur,28 Jan 2026,Delivered,794.95,Rohan Kapoor,9876543218,C009,R017,Pink City Rasoi,Rajasthani
+ORD1047,Mumbai,29 Jan 2026,Delivered,478.83,Priya Singh,9876543211,C002,R003,Bombay Bites,Street Food
+ORD1144,Lucknow,29 Jan 2026,Delivered,860.70,Harsh Vardhan,9876543234,C025,R019,Tunday Kababi Corner,Awadhi
+ORD1183,Mumbai,29 Jan 2026,Delivered,791.41,Priya Singh,9876543211,C002,R003,Bombay Bites,Street Food
+ORD1218,Pune,29 Jan 2026,Out for Delivery,822.37,Simran Kaur,9876543223,C014,R007,Puneri Misal House,Maharashtrian
+ORD1286,Jaipur,29 Jan 2026,Delivered,569.47,Varun Bansal,9876543228,C019,R017,Pink City Rasoi,Rajasthani
+ORD1299,Delhi,29 Jan 2026,Delivered,283.54,Aditya Roy,9876543230,C021,R002,Karim's Kitchen,Mughlai
+ORD1048,Bangalore,30 Jan 2026,Out for Delivery,607.39,Yash Thakur,9876543232,C023,R006,Silicon Spice,Multi-Cuisine
+ORD1090,Chennai,30 Jan 2026,Delivered,326.74,Vikram Rao,9876543216,C007,R013,Marina Meals,South Indian
+ORD1140,Kochi,30 Jan 2026,Delivered,986.30,Kavya Nair,9876543217,C008,R016,Fort Kochi Seafoods,Seafood
+ORD1068,Delhi,31 Jan 2026,Delivered,"1,104.02",Rahul Sharma,9876543210,C001,R002,Karim's Kitchen,Mughlai
+ORD1072,Mumbai,31 Jan 2026,Delivered,827.13,Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1130,Chennai,31 Jan 2026,Delivered,947.15,Vikram Rao,9876543216,C007,R014,Chettinad Corner,Chettinad
+ORD1132,Jaipur,31 Jan 2026,Delivered,572.25,Rohan Kapoor,9876543218,C009,R017,Pink City Rasoi,Rajasthani
+ORD1267,Kolkata,31 Jan 2026,Delivered,949.83,Sahil Khan,9876543226,C017,R021,Bong Bhoj,Bengali
+ORD1293,Ahmedabad,31 Jan 2026,Pending,881.20,Meera Shah,9876543229,C020,R011,Gujarat Thali Home,Gujarati
+ORD1007,Ahmedabad,01 Feb 2026,Delivered,"1,179.78",Meera Shah,9876543229,C020,R012,Manek Chowk Bites,Street Food
+ORD1071,Kolkata,01 Feb 2026,Delivered,995.58,Ishita Das,9876543227,C018,R021,Bong Bhoj,Bengali
+ORD1176,Bangalore,01 Feb 2026,Delivered,372.02,Aman Verma,9876543212,C003,R005,Namma Bangalore Cafe,South Indian
+ORD1252,Delhi,01 Feb 2026,Delivered,910.08,Karan Malhotra,9876543220,C011,R002,Karim's Kitchen,Mughlai
+ORD1253,Pune,01 Feb 2026,Delivered,940.57,Simran Kaur,9876543223,C014,R008,Deccan Diner,Continental
+ORD1272,Mumbai,01 Feb 2026,Delivered,"1,082.95",Priya Singh,9876543211,C002,R003,Bombay Bites,Street Food
+ORD1174,Chennai,02 Feb 2026,Delivered,758.22,Vikram Rao,9876543216,C007,R014,Chettinad Corner,Chettinad
+ORD1239,Chennai,02 Feb 2026,Delivered,"1,127.14",Divya Menon,9876543225,C016,R014,Chettinad Corner,Chettinad
+ORD1113,Lucknow,03 Feb 2026,Delivered,604.50,Harsh Vardhan,9876543234,C025,R020,Nawabi Nights,Mughlai
+ORD1164,Kolkata,03 Feb 2026,Delivered,916.00,Ishita Das,9876543227,C018,R022,Park Street Diner,Continental
+ORD1107,Mumbai,04 Feb 2026,Delivered,"1,134.98",Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1133,Jaipur,04 Feb 2026,Delivered,309.79,Varun Bansal,9876543228,C019,R018,Royal Thali Palace,Rajasthani
+ORD1203,Jaipur,04 Feb 2026,Delivered,434.24,Varun Bansal,9876543228,C019,R018,Royal Thali Palace,Rajasthani
+ORD1221,Delhi,04 Feb 2026,Delivered,"1,165.28",Karan Malhotra,9876543220,C011,R002,Karim's Kitchen,Mughlai
+ORD1215,Bangalore,05 Feb 2026,Delivered,217.57,Yash Thakur,9876543232,C023,R005,Namma Bangalore Cafe,South Indian
+ORD1251,Jaipur,05 Feb 2026,Delivered,612.24,Rohan Kapoor,9876543218,C009,R018,Royal Thali Palace,Rajasthani
+ORD1159,Chennai,06 Feb 2026,Delivered,932.07,Divya Menon,9876543225,C016,R013,Marina Meals,South Indian
+ORD1168,Mumbai,06 Feb 2026,Delivered,650.00,Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1184,Jaipur,06 Feb 2026,Pending,871.89,Rohan Kapoor,9876543218,C009,R017,Pink City Rasoi,Rajasthani
+ORD1269,Pune,06 Feb 2026,Delivered,443.86,Neha Gupta,9876543213,C004,R007,Puneri Misal House,Maharashtrian
+ORD1065,Kolkata,07 Feb 2026,Out for Delivery,647.84,Ishita Das,9876543227,C018,R021,Bong Bhoj,Bengali
+ORD1066,Kolkata,07 Feb 2026,Out for Delivery,816.41,Sahil Khan,9876543226,C017,R022,Park Street Diner,Continental
+ORD1103,Delhi,07 Feb 2026,Delivered,844.57,Aditya Roy,9876543230,C021,R001,Delhi Darbar,North Indian
+ORD1114,Hyderabad,07 Feb 2026,Delivered,511.04,Nikhil Jain,9876543224,C015,R009,Hyderabadi Biryani House,Biryani
+ORD1163,Pune,07 Feb 2026,Delivered,224.46,Simran Kaur,9876543223,C014,R008,Deccan Diner,Continental
+ORD1078,Chennai,08 Feb 2026,Delivered,"1,194.39",Vikram Rao,9876543216,C007,R014,Chettinad Corner,Chettinad
+ORD1083,Kolkata,08 Feb 2026,Delivered,"1,033.73",Sahil Khan,9876543226,C017,R022,Park Street Diner,Continental
+ORD1156,Delhi,08 Feb 2026,Pending,"1,154.63",Karan Malhotra,9876543220,C011,R001,Delhi Darbar,North Indian
+ORD1245,Delhi,08 Feb 2026,Delivered,894.75,Aditya Roy,9876543230,C021,R001,Delhi Darbar,North Indian
+ORD1264,Mumbai,08 Feb 2026,Delivered,513.19,Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1014,Pune,09 Feb 2026,Delivered,803.14,Neha Gupta,9876543213,C004,R008,Deccan Diner,Continental
+ORD1200,Chennai,09 Feb 2026,Delivered,332.46,Vikram Rao,9876543216,C007,R014,Chettinad Corner,Chettinad
+ORD1005,Pune,10 Feb 2026,Delivered,433.40,Simran Kaur,9876543223,C014,R008,Deccan Diner,Continental
+ORD1110,Delhi,10 Feb 2026,Delivered,795.43,Rahul Sharma,9876543210,C001,R002,Karim's Kitchen,Mughlai
+ORD1207,Mumbai,10 Feb 2026,Delivered,998.33,Pooja Iyer,9876543221,C012,R004,Sea Breeze Grill,Seafood
+ORD1262,Delhi,11 Feb 2026,Delivered,489.20,Karan Malhotra,9876543220,C011,R001,Delhi Darbar,North Indian
+ORD1157,Mumbai,12 Feb 2026,Delivered,964.11,Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1219,Hyderabad,12 Feb 2026,Delivered,768.91,Nikhil Jain,9876543224,C015,R010,Nizam's Table,Mughlai
+ORD1023,Hyderabad,14 Feb 2026,Delivered,671.15,Nikhil Jain,9876543224,C015,R010,Nizam's Table,Mughlai
+ORD1059,Mumbai,14 Feb 2026,Cancelled,502.30,Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1062,Ahmedabad,14 Feb 2026,Cancelled,346.05,Sneha Patel,9876543215,C006,R011,Gujarat Thali Home,Gujarati
+ORD1152,Kolkata,14 Feb 2026,Cancelled,"1,096.13",Sahil Khan,9876543226,C017,R021,Bong Bhoj,Bengali
+ORD1169,Kochi,14 Feb 2026,Delivered,432.25,Kavya Nair,9876543217,C008,R015,Kerala Backwater Kitchen,Kerala
+ORD1190,Pune,14 Feb 2026,Pending,387.74,Tanya Sethi,9876543233,C024,R007,Puneri Misal House,Maharashtrian
+ORD1229,Mumbai,14 Feb 2026,Delivered,"1,166.48",Riya Kapoor,9876543231,C022,R004,Sea Breeze Grill,Seafood
+ORD1273,Ahmedabad,14 Feb 2026,Pending,887.31,Sneha Patel,9876543215,C006,R011,Gujarat Thali Home,Gujarati
+ORD1124,Bangalore,15 Feb 2026,Delivered,423.44,Mohit Agarwal,9876543222,C013,R006,Silicon Spice,Multi-Cuisine
+ORD1186,Ahmedabad,15 Feb 2026,Delivered,991.76,Meera Shah,9876543229,C020,R011,Gujarat Thali Home,Gujarati
+ORD1226,Chennai,15 Feb 2026,Delivered,487.18,Divya Menon,9876543225,C016,R013,Marina Meals,South Indian
+ORD1284,Jaipur,15 Feb 2026,Cancelled,394.29,Varun Bansal,9876543228,C019,R018,Royal Thali Palace,Rajasthani
+ORD1189,Delhi,16 Feb 2026,Pending,198.58,Karan Malhotra,9876543220,C011,R002,Karim's Kitchen,Mughlai
+ORD1223,Bangalore,16 Feb 2026,Out for Delivery,551.38,Yash Thakur,9876543232,C023,R006,Silicon Spice,Multi-Cuisine
+ORD1278,Pune,16 Feb 2026,Delivered,978.03,Simran Kaur,9876543223,C014,R007,Puneri Misal House,Maharashtrian
+ORD1287,Delhi,16 Feb 2026,Pending,821.14,Rahul Sharma,9876543210,C001,R001,Delhi Darbar,North Indian
+ORD1069,Mumbai,17 Feb 2026,Delivered,"1,015.36",Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1117,Kochi,17 Feb 2026,Delivered,"1,051.34",Kavya Nair,9876543217,C008,R016,Fort Kochi Seafoods,Seafood
+ORD1191,Delhi,17 Feb 2026,Delivered,"1,016.78",Karan Malhotra,9876543220,C011,R001,Delhi Darbar,North Indian
+ORD1279,Kolkata,17 Feb 2026,Cancelled,644.30,Sahil Khan,9876543226,C017,R022,Park Street Diner,Continental
+ORD1017,Hyderabad,18 Feb 2026,Out for Delivery,463.99,Nikhil Jain,9876543224,C015,R009,Hyderabadi Biryani House,Biryani
+ORD1084,Delhi,18 Feb 2026,Delivered,236.51,Rahul Sharma,9876543210,C001,R002,Karim's Kitchen,Mughlai
+ORD1119,Mumbai,18 Feb 2026,Out for Delivery,501.91,Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1166,Ahmedabad,18 Feb 2026,Cancelled,315.36,Meera Shah,9876543229,C020,R012,Manek Chowk Bites,Street Food
+ORD1155,Hyderabad,19 Feb 2026,Delivered,291.14,Nikhil Jain,9876543224,C015,R010,Nizam's Table,Mughlai
+ORD1220,Pune,19 Feb 2026,Delivered,360.29,Simran Kaur,9876543223,C014,R007,Puneri Misal House,Maharashtrian
+ORD1057,Mumbai,20 Feb 2026,Out for Delivery,723.95,Riya Kapoor,9876543231,C022,R004,Sea Breeze Grill,Seafood
+ORD1097,Pune,20 Feb 2026,Out for Delivery,231.80,Neha Gupta,9876543213,C004,R008,Deccan Diner,Continental
+ORD1228,Delhi,20 Feb 2026,Delivered,244.94,Rahul Sharma,9876543210,C001,R001,Delhi Darbar,North Indian
+ORD1042,Pune,21 Feb 2026,Pending,938.22,Neha Gupta,9876543213,C004,R008,Deccan Diner,Continental
+ORD1049,Mumbai,21 Feb 2026,Delivered,775.02,Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1106,Bangalore,21 Feb 2026,Cancelled,655.67,Yash Thakur,9876543232,C023,R006,Silicon Spice,Multi-Cuisine
+ORD1141,Delhi,21 Feb 2026,Delivered,"1,158.12",Rahul Sharma,9876543210,C001,R002,Karim's Kitchen,Mughlai
+ORD1161,Delhi,21 Feb 2026,Delivered,999.40,Karan Malhotra,9876543220,C011,R001,Delhi Darbar,North Indian
+ORD1289,Hyderabad,21 Feb 2026,Delivered,347.82,Arjun Mehta,9876543214,C005,R010,Nizam's Table,Mughlai
+ORD1028,Pune,22 Feb 2026,Delivered,297.66,Tanya Sethi,9876543233,C024,R008,Deccan Diner,Continental
+ORD1036,Delhi,22 Feb 2026,Delivered,377.52,Rahul Sharma,9876543210,C001,R002,Karim's Kitchen,Mughlai
+ORD1052,Mumbai,22 Feb 2026,Delivered,919.70,Priya Singh,9876543211,C002,R003,Bombay Bites,Street Food
+ORD1123,Chennai,22 Feb 2026,Pending,530.54,Vikram Rao,9876543216,C007,R013,Marina Meals,South Indian
+ORD1205,Delhi,22 Feb 2026,Delivered,635.76,Aditya Roy,9876543230,C021,R002,Karim's Kitchen,Mughlai
+ORD1206,Jaipur,22 Feb 2026,Pending,289.22,Varun Bansal,9876543228,C019,R017,Pink City Rasoi,Rajasthani
+ORD1242,Bangalore,22 Feb 2026,Out for Delivery,891.57,Mohit Agarwal,9876543222,C013,R006,Silicon Spice,Multi-Cuisine
+ORD1290,Delhi,22 Feb 2026,Delivered,753.29,Aditya Roy,9876543230,C021,R001,Delhi Darbar,North Indian
+ORD1029,Ahmedabad,23 Feb 2026,Delivered,267.60,Meera Shah,9876543229,C020,R012,Manek Chowk Bites,Street Food
+ORD1170,Delhi,23 Feb 2026,Out for Delivery,735.51,Aditya Roy,9876543230,C021,R001,Delhi Darbar,North Indian
+ORD1250,Jaipur,23 Feb 2026,Delivered,315.31,Rohan Kapoor,9876543218,C009,R018,Royal Thali Palace,Rajasthani
+ORD1295,Jaipur,23 Feb 2026,Cancelled,617.06,Varun Bansal,9876543228,C019,R018,Royal Thali Palace,Rajasthani
+ORD1098,Delhi,24 Feb 2026,Delivered,183.38,Aditya Roy,9876543230,C021,R001,Delhi Darbar,North Indian
+ORD1122,Mumbai,24 Feb 2026,Delivered,"1,110.14",Riya Kapoor,9876543231,C022,R004,Sea Breeze Grill,Seafood
+ORD1211,Mumbai,24 Feb 2026,Delivered,"1,155.77",Priya Singh,9876543211,C002,R003,Bombay Bites,Street Food
+ORD1257,Delhi,24 Feb 2026,Delivered,681.31,Rahul Sharma,9876543210,C001,R002,Karim's Kitchen,Mughlai
+ORD1260,Mumbai,24 Feb 2026,Out for Delivery,982.67,Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1016,Bangalore,25 Feb 2026,Delivered,349.69,Mohit Agarwal,9876543222,C013,R006,Silicon Spice,Multi-Cuisine
+ORD1101,Mumbai,25 Feb 2026,Pending,258.27,Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1147,Kolkata,25 Feb 2026,Delivered,497.95,Sahil Khan,9876543226,C017,R021,Bong Bhoj,Bengali
+ORD1172,Mumbai,25 Feb 2026,Cancelled,356.66,Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1089,Delhi,26 Feb 2026,Delivered,385.00,Karan Malhotra,9876543220,C011,R002,Karim's Kitchen,Mughlai
+ORD1204,Hyderabad,26 Feb 2026,Cancelled,362.34,Nikhil Jain,9876543224,C015,R010,Nizam's Table,Mughlai
+ORD1214,Ahmedabad,26 Feb 2026,Cancelled,392.49,Sneha Patel,9876543215,C006,R012,Manek Chowk Bites,Street Food
+ORD1234,Kochi,27 Feb 2026,Delivered,245.04,Kavya Nair,9876543217,C008,R015,Kerala Backwater Kitchen,Kerala
+ORD1258,Mumbai,27 Feb 2026,Delivered,769.57,Pooja Iyer,9876543221,C012,R004,Sea Breeze Grill,Seafood
+ORD1285,Lucknow,27 Feb 2026,Delivered,923.69,Anjali Joshi,9876543219,C010,R020,Nawabi Nights,Mughlai
+ORD1035,Hyderabad,28 Feb 2026,Cancelled,542.67,Arjun Mehta,9876543214,C005,R009,Hyderabadi Biryani House,Biryani
+ORD1046,Delhi,28 Feb 2026,Delivered,622.49,Aditya Roy,9876543230,C021,R001,Delhi Darbar,North Indian
+ORD1142,Jaipur,28 Feb 2026,Delivered,737.94,Rohan Kapoor,9876543218,C009,R018,Royal Thali Palace,Rajasthani
+ORD1254,Hyderabad,28 Feb 2026,Delivered,533.72,Arjun Mehta,9876543214,C005,R010,Nizam's Table,Mughlai
+ORD1282,Mumbai,28 Feb 2026,Delivered,283.11,Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1050,Chennai,01 Mar 2026,Delivered,713.98,Divya Menon,9876543225,C016,R013,Marina Meals,South Indian
+ORD1070,Bangalore,01 Mar 2026,Out for Delivery,762.01,Mohit Agarwal,9876543222,C013,R005,Namma Bangalore Cafe,South Indian
+ORD1077,Bangalore,01 Mar 2026,Delivered,475.76,Yash Thakur,9876543232,C023,R006,Silicon Spice,Multi-Cuisine
+ORD1081,Jaipur,02 Mar 2026,Pending,"1,169.72",Varun Bansal,9876543228,C019,R018,Royal Thali Palace,Rajasthani
+ORD1003,Mumbai,03 Mar 2026,Delivered,755.66,Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1045,Lucknow,03 Mar 2026,Out for Delivery,313.60,Harsh Vardhan,9876543234,C025,R019,Tunday Kababi Corner,Awadhi
+ORD1074,Ahmedabad,03 Mar 2026,Pending,"1,125.20",Sneha Patel,9876543215,C006,R012,Manek Chowk Bites,Street Food
+ORD1087,Bangalore,03 Mar 2026,Delivered,429.34,Mohit Agarwal,9876543222,C013,R006,Silicon Spice,Multi-Cuisine
+ORD1126,Mumbai,03 Mar 2026,Delivered,642.05,Riya Kapoor,9876543231,C022,R004,Sea Breeze Grill,Seafood
+ORD1055,Delhi,04 Mar 2026,Delivered,955.19,Aditya Roy,9876543230,C021,R002,Karim's Kitchen,Mughlai
+ORD1058,Ahmedabad,04 Mar 2026,Delivered,"1,036.80",Sneha Patel,9876543215,C006,R012,Manek Chowk Bites,Street Food
+ORD1128,Delhi,04 Mar 2026,Delivered,505.67,Rahul Sharma,9876543210,C001,R002,Karim's Kitchen,Mughlai
+ORD1201,Kolkata,04 Mar 2026,Delivered,218.89,Sahil Khan,9876543226,C017,R021,Bong Bhoj,Bengali
+ORD1199,Mumbai,05 Mar 2026,Delivered,222.55,Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1225,Delhi,05 Mar 2026,Delivered,489.81,Rahul Sharma,9876543210,C001,R001,Delhi Darbar,North Indian
+ORD1243,Delhi,06 Mar 2026,Delivered,984.99,Karan Malhotra,9876543220,C011,R001,Delhi Darbar,North Indian
+ORD1085,Lucknow,08 Mar 2026,Delivered,886.54,Harsh Vardhan,9876543234,C025,R020,Nawabi Nights,Mughlai
+ORD1150,Ahmedabad,08 Mar 2026,Delivered,"1,120.36",Meera Shah,9876543229,C020,R011,Gujarat Thali Home,Gujarati
+ORD1151,Delhi,08 Mar 2026,Delivered,603.69,Rahul Sharma,9876543210,C001,R001,Delhi Darbar,North Indian
+ORD1202,Pune,08 Mar 2026,Cancelled,741.05,Neha Gupta,9876543213,C004,R008,Deccan Diner,Continental
+ORD1230,Delhi,08 Mar 2026,Delivered,770.04,Aditya Roy,9876543230,C021,R002,Karim's Kitchen,Mughlai
+ORD1051,Delhi,09 Mar 2026,Delivered,971.56,Karan Malhotra,9876543220,C011,R001,Delhi Darbar,North Indian
+ORD1026,Chennai,10 Mar 2026,Delivered,251.72,Vikram Rao,9876543216,C007,R014,Chettinad Corner,Chettinad
+ORD1034,Chennai,10 Mar 2026,Delivered,"1,002.20",Divya Menon,9876543225,C016,R013,Marina Meals,South Indian
+ORD1044,Kochi,10 Mar 2026,Delivered,"1,179.91",Kavya Nair,9876543217,C008,R015,Kerala Backwater Kitchen,Kerala
+ORD1056,Delhi,10 Mar 2026,Out for Delivery,798.26,Karan Malhotra,9876543220,C011,R002,Karim's Kitchen,Mughlai
+ORD1102,Lucknow,10 Mar 2026,Delivered,835.62,Harsh Vardhan,9876543234,C025,R019,Tunday Kababi Corner,Awadhi
+ORD1149,Bangalore,10 Mar 2026,Delivered,"1,094.41",Aman Verma,9876543212,C003,R006,Silicon Spice,Multi-Cuisine
+ORD1213,Bangalore,10 Mar 2026,Delivered,"1,103.16",Aman Verma,9876543212,C003,R006,Silicon Spice,Multi-Cuisine
+ORD1039,Pune,11 Mar 2026,Delivered,"1,037.24",Neha Gupta,9876543213,C004,R008,Deccan Diner,Continental
+ORD1173,Mumbai,11 Mar 2026,Delivered,419.63,Pooja Iyer,9876543221,C012,R004,Sea Breeze Grill,Seafood
+ORD1198,Mumbai,11 Mar 2026,Pending,807.02,Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1227,Mumbai,11 Mar 2026,Cancelled,341.80,Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1263,Hyderabad,12 Mar 2026,Delivered,"1,142.80",Arjun Mehta,9876543214,C005,R010,Nizam's Table,Mughlai
+ORD1208,Chennai,13 Mar 2026,Delivered,263.89,Vikram Rao,9876543216,C007,R013,Marina Meals,South Indian
+ORD1216,Mumbai,13 Mar 2026,Delivered,873.27,Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1032,Lucknow,14 Mar 2026,Delivered,890.12,Anjali Joshi,9876543219,C010,R020,Nawabi Nights,Mughlai
+ORD1193,Delhi,14 Mar 2026,Pending,270.81,Aditya Roy,9876543230,C021,R001,Delhi Darbar,North Indian
+ORD1277,Jaipur,14 Mar 2026,Delivered,642.98,Rohan Kapoor,9876543218,C009,R017,Pink City Rasoi,Rajasthani
+ORD1040,Ahmedabad,15 Mar 2026,Delivered,"1,107.97",Meera Shah,9876543229,C020,R011,Gujarat Thali Home,Gujarati
+ORD1092,Bangalore,15 Mar 2026,Delivered,577.31,Aman Verma,9876543212,C003,R005,Namma Bangalore Cafe,South Indian
+ORD1099,Delhi,15 Mar 2026,Out for Delivery,247.37,Aditya Roy,9876543230,C021,R001,Delhi Darbar,North Indian
+ORD1118,Bangalore,15 Mar 2026,Delivered,827.66,Aman Verma,9876543212,C003,R005,Namma Bangalore Cafe,South Indian
+ORD1187,Lucknow,15 Mar 2026,Delivered,585.73,Anjali Joshi,9876543219,C010,R019,Tunday Kababi Corner,Awadhi
+ORD1270,Kolkata,15 Mar 2026,Delivered,379.34,Sahil Khan,9876543226,C017,R021,Bong Bhoj,Bengali
+ORD1280,Jaipur,15 Mar 2026,Delivered,973.74,Varun Bansal,9876543228,C019,R017,Pink City Rasoi,Rajasthani
+ORD1298,Pune,15 Mar 2026,Delivered,393.94,Tanya Sethi,9876543233,C024,R007,Puneri Misal House,Maharashtrian
+ORD1009,Ahmedabad,16 Mar 2026,Delivered,959.86,Meera Shah,9876543229,C020,R011,Gujarat Thali Home,Gujarati
+ORD1188,Bangalore,16 Mar 2026,Delivered,606.20,Mohit Agarwal,9876543222,C013,R006,Silicon Spice,Multi-Cuisine
+ORD1276,Hyderabad,16 Mar 2026,Delivered,"1,077.68",Nikhil Jain,9876543224,C015,R009,Hyderabadi Biryani House,Biryani
+ORD1291,Bangalore,16 Mar 2026,Delivered,"1,027.31",Aman Verma,9876543212,C003,R006,Silicon Spice,Multi-Cuisine
+ORD1004,Jaipur,18 Mar 2026,Out for Delivery,616.14,Rohan Kapoor,9876543218,C009,R018,Royal Thali Palace,Rajasthani
+ORD1053,Chennai,18 Mar 2026,Out for Delivery,721.34,Vikram Rao,9876543216,C007,R014,Chettinad Corner,Chettinad
+ORD1095,Kolkata,18 Mar 2026,Delivered,993.93,Sahil Khan,9876543226,C017,R021,Bong Bhoj,Bengali
+ORD1010,Kochi,19 Mar 2026,Delivered,786.26,Kavya Nair,9876543217,C008,R016,Fort Kochi Seafoods,Seafood
+ORD1105,Bangalore,19 Mar 2026,Delivered,869.22,Yash Thakur,9876543232,C023,R005,Namma Bangalore Cafe,South Indian
+ORD1246,Delhi,19 Mar 2026,Delivered,826.56,Rahul Sharma,9876543210,C001,R001,Delhi Darbar,North Indian
+ORD1259,Mumbai,20 Mar 2026,Delivered,688.28,Pooja Iyer,9876543221,C012,R003,Bombay Bites,Street Food
+ORD1063,Lucknow,21 Mar 2026,Pending,"1,193.95",Anjali Joshi,9876543219,C010,R019,Tunday Kababi Corner,Awadhi
+ORD1111,Jaipur,21 Mar 2026,Delivered,416.01,Varun Bansal,9876543228,C019,R017,Pink City Rasoi,Rajasthani
+ORD1197,Kochi,21 Mar 2026,Delivered,881.98,Kavya Nair,9876543217,C008,R015,Kerala Backwater Kitchen,Kerala
+ORD1238,Pune,21 Mar 2026,Delivered,451.31,Tanya Sethi,9876543233,C024,R008,Deccan Diner,Continental
+ORD1255,Kolkata,21 Mar 2026,Delivered,766.03,Sahil Khan,9876543226,C017,R021,Bong Bhoj,Bengali
+ORD1013,Lucknow,22 Mar 2026,Pending,"1,084.78",Harsh Vardhan,9876543234,C025,R020,Nawabi Nights,Mughlai
+ORD1037,Kochi,22 Mar 2026,Delivered,"1,154.10",Kavya Nair,9876543217,C008,R016,Fort Kochi Seafoods,Seafood
+ORD1094,Jaipur,22 Mar 2026,Out for Delivery,819.88,Rohan Kapoor,9876543218,C009,R017,Pink City Rasoi,Rajasthani
+ORD1136,Mumbai,22 Mar 2026,Delivered,"1,043.44",Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1235,Jaipur,22 Mar 2026,Out for Delivery,186.48,Rohan Kapoor,9876543218,C009,R018,Royal Thali Palace,Rajasthani
+ORD1283,Kochi,22 Mar 2026,Cancelled,702.43,Kavya Nair,9876543217,C008,R015,Kerala Backwater Kitchen,Kerala
+ORD1012,Lucknow,23 Mar 2026,Delivered,840.07,Anjali Joshi,9876543219,C010,R019,Tunday Kababi Corner,Awadhi
+ORD1079,Delhi,23 Mar 2026,Out for Delivery,742.07,Rahul Sharma,9876543210,C001,R001,Delhi Darbar,North Indian
+ORD1271,Mumbai,23 Mar 2026,Delivered,623.62,Priya Singh,9876543211,C002,R004,Sea Breeze Grill,Seafood
+ORD1030,Delhi,24 Mar 2026,Delivered,668.19,Aditya Roy,9876543230,C021,R002,Karim's Kitchen,Mughlai
+ORD1236,Hyderabad,24 Mar 2026,Delivered,641.54,Nikhil Jain,9876543224,C015,R009,Hyderabadi Biryani House,Biryani
+ORD1275,Kolkata,24 Mar 2026,Delivered,"1,106.16",Ishita Das,9876543227,C018,R021,Bong Bhoj,Bengali
+ORD1162,Delhi,25 Mar 2026,Delivered,"1,096.52",Karan Malhotra,9876543220,C011,R001,Delhi Darbar,North Indian
+ORD1222,Kochi,25 Mar 2026,Delivered,406.07,Kavya Nair,9876543217,C008,R015,Kerala Backwater Kitchen,Kerala
+ORD1248,Mumbai,26 Mar 2026,Pending,289.26,Riya Kapoor,9876543231,C022,R003,Bombay Bites,Street Food
+ORD1120,Pune,27 Mar 2026,Delivered,588.04,Simran Kaur,9876543223,C014,R007,Puneri Misal House,Maharashtrian
+ORD1292,Hyderabad,27 Mar 2026,Out for Delivery,842.60,Nikhil Jain,9876543224,C015,R010,Nizam's Table,Mughlai
+ORD1015,Ahmedabad,28 Mar 2026,Delivered,311.93,Sneha Patel,9876543215,C006,R011,Gujarat Thali Home,Gujarati
+ORD1181,Mumbai,28 Mar 2026,Delivered,"1,144.62",Pooja Iyer,9876543221,C012,R004,Sea Breeze Grill,Seafood
+ORD1192,Hyderabad,28 Mar 2026,Delivered,312.57,Nikhil Jain,9876543224,C015,R010,Nizam's Table,Mughlai
+ORD1300,Mumbai,28 Mar 2026,Cancelled,533.37,Priya Singh,9876543211,C002,R003,Bombay Bites,Street Food
+ORD1022,Jaipur,29 Mar 2026,Delivered,993.83,Rohan Kapoor,9876543218,C009,R018,Royal Thali Palace,Rajasthani
+ORD1067,Chennai,29 Mar 2026,Delivered,"1,171.13",Vikram Rao,9876543216,C007,R013,Marina Meals,South Indian
+ORD1297,Delhi,29 Mar 2026,Delivered,721.26,Rahul Sharma,9876543210,C001,R002,Karim's Kitchen,Mughlai
+ORD1167,Ahmedabad,31 Mar 2026,Delivered,"1,019.21",Sneha Patel,9876543215,C006,R011,Gujarat Thali Home,Gujarati
