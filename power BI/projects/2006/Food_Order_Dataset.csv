@@ -1,0 +1,28 @@
+OrderID,CustomerName_Phone,City,OrderDate,DeliveryStatus,OrderAmount
+ORD1001,Rahul Sharma-9876543210,Delhi,2026-01-05,Delivered,450.5
+ORD1002,Priya Singh-9876543211,Mumbai,2026-01-06,Delivered,720.0
+ORD1003,Aman Verma-9876543212,Bangalore,2026-01-07,Pending,315.75
+ORD1004,Neha Gupta-9876543213,Pune,2026-01-08,Delivered,560.25
+ORD1005,Arjun Mehta-9876543214,Hyderabad,2026-01-09,Cancelled,890.0
+ORD1006,Sneha Patel-9876543215,Ahmedabad,2026-01-10,Delivered,245.5
+ORD1007,Vikram Rao-9876543216,Chennai,2026-01-11,Delivered,630.0
+ORD1008,Kavya Nair-9876543217,Kochi,2026-01-12,Out for Delivery,410.75
+ORD1009,Rohan Kapoor-9876543218,Jaipur,2026-01-13,Delivered,980.0
+ORD1010,Anjali Joshi-9876543219,Lucknow,2026-01-14,Pending,375.25
+ORD1011,Karan Malhotra-9876543220,Delhi,2026-01-15,Delivered,520.0
+ORD1012,Pooja Iyer-9876543221,Mumbai,2026-01-16,Cancelled,690.5
+ORD1013,Mohit Agarwal-9876543222,Bangalore,2026-01-17,Delivered,825.75
+ORD1014,Simran Kaur-9876543223,Pune,2026-01-18,Delivered,299.0
+ORD1015,Nikhil Jain-9876543224,Hyderabad,2026-01-19,Out for Delivery,450.0
+ORD1016,Divya Menon-9876543225,Chennai,2026-01-20,Delivered,735.25
+ORD1017,Sahil Khan-9876543226,Kolkata,2026-01-21,Pending,510.5
+ORD1018,Ishita Das-9876543227,Kolkata,2026-01-22,Delivered,625.0
+ORD1019,Varun Bansal-9876543228,Jaipur,2026-01-23,Delivered,340.75
+ORD1020,Meera Shah-9876543229,Ahmedabad,2026-01-24,Cancelled,775.0
+ORD1005,Arjun Mehta-9876543214,Hyderabad,2026-01-09,Cancelled,890.0
+,,,,,
+ORD1021,Aditya Roy-9876543230,Delhi,2026-01-25,Delivered,455.5
+ORD1022,Riya Kapoor-9876543231,Mumbai,2026-01-26,Delivered,610.0
+ORD1023,Yash Thakur-9876543232,Bangalore,2026-01-27,Out for Delivery,385.25
+ORD1024,Tanya Sethi-9876543233,Pune,2026-01-28,Delivered,920.75
+ORD1025,Harsh Vardhan-9876543234,Lucknow,2026-01-29,Pending,275.0

@@ -1,0 +1,23 @@
+RestaurantID,RestaurantName,City,Cuisine,Rating,ContactNumber
+R001,Delhi Darbar,Delhi,North Indian,4.3,9876540001
+R002,Karim's Kitchen,Delhi,Mughlai,3.5,9876540002
+R003,Bombay Bites,Mumbai,Street Food,3.9,9876540003
+R004,Sea Breeze Grill,Mumbai,Seafood,3.8,9876540004
+R005,Namma Bangalore Cafe,Bangalore,South Indian,4.5,9876540005
+R006,Silicon Spice,Bangalore,Multi-Cuisine,4.4,9876540006
+R007,Puneri Misal House,Pune,Maharashtrian,4.7,9876540007
+R008,Deccan Diner,Pune,Continental,3.6,9876540008
+R009,Hyderabadi Biryani House,Hyderabad,Biryani,4,9876540009
+R010,Nizam's Table,Hyderabad,Mughlai,3.5,9876540010
+R011,Gujarat Thali Home,Ahmedabad,Gujarati,3.8,9876540011
+R012,Manek Chowk Bites,Ahmedabad,Street Food,4.2,9876540012
+R013,Marina Meals,Chennai,South Indian,3.5,9876540013
+R014,Chettinad Corner,Chennai,Chettinad,3.8,9876540014
+R015,Kerala Backwater Kitchen,Kochi,Kerala,4.3,9876540015
+R016,Fort Kochi Seafoods,Kochi,Seafood,4.2,9876540016
+R017,Pink City Rasoi,Jaipur,Rajasthani,3.8,9876540017
+R018,Royal Thali Palace,Jaipur,Rajasthani,4.3,9876540018
+R019,Tunday Kababi Corner,Lucknow,Awadhi,4.6,9876540019
+R020,Nawabi Nights,Lucknow,Mughlai,3.5,9876540020
+R021,Bong Bhoj,Kolkata,Bengali,4.5,9876540021
+R022,Park Street Diner,Kolkata,Continental,4.4,9876540022
