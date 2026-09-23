@@ -22,7 +22,7 @@ order by booking_date desc limit 5;
 -- displaying only product name and sold_count, sorted from highest to lowest.<br><br><em><strong>Hint:</strong> Use ORDER BY and LIMIT together to achieve this.</em>
 
 
-select product_name, sold_count 
+select name, sold_count 
 from Flipkart-style 
 order by sold_count desc 
 limit 10;
