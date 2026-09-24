@@ -1,0 +1,246 @@
+SELECT  ----> it can be used to select columns from a table
+FROM    ----> it can be used to with a table imported
+JOIN    ----> it can be used to join two tables
+ON      ----> it can be uesd to join two tables
+WHERE   ----> it can be used to filter the data 
+GROUP BY----> it can be used to group the data 
+HAVING  ----> it can be used to filter the grouped data 
+ORDER BY ----> it can be uesd to order the data asc or desc
+LIMIT   ----> it can be used to limit the number of rows
+
+
+
+# Clause ≠ Function
+
+COUNT()     ----> it was count the number of rows
+SUM()       ----> it can sum the values of a column
+AVG()       ----> it can average the values of a column
+MAX()       ----> it can max the values of a column
+MIN()       ----> it can min the values of a column
+
+
+# joins
+
+what is a join?
+    a join is a way to combine two or more tables together
+
+inner join     ---> it combines two tables based on a common column 
+left join      ---> it was combines two tables based on a common column and keeps all the rows from the left table
+right join     ---> right join combines tables and keeps all the rows from the right table 
+cross join     ---> it can combine tables and keep all the rows from both tables 
+self join      ---> when you join a table with itself Ye mainly hierarchy ke liye useful hai.
+
+what is on?
+    on is used to specify the join condition
+
+what is table Alias?
+    table alias is used to give a name to a table
+    Alias se query short aur readable ho jaati hai.
+
+after joining table use where clause to filter the data
+
+join + group by
+    it can be used to group the data based on the joined table
+
+join + group by + HAVING
+    it can be used to filter the grouped data
+
+    select 
+    from 
+    join 
+    on 
+    group by
+    HAVING
+
+# joins Visual idea  
+
+INNER JOIN
+A ∩ B
+Only common/matching
+
+
+LEFT JOIN
+A + matching B
+Left side complete
+
+
+RIGHT JOIN
+B + matching A
+Right side complete
+
+
+CROSS JOIN
+A × B
+Every combination
+
+
+SELF JOIN
+A ↔ A
+Same table
+
+what is subquery?
+    subquery is a query that is used to filter the data from a table or another subquery 
+
+    select 
+    from
+    where(
+        select 
+        from
+        where 
+        group by 
+        having
+        order by 
+        limit
+    );
+
+# existxs function
+    it can be check the existence of a column in a table or value in a column
+
+qustion is can we ues subquery in a subquery?
+    yes we can use subquery in a subquery
+
+# CTE Function
+    CTE stands for Common Table Expression
+    it can be used to create a temporary table and use it in the main query
+    
+    with CTE_name as (select ...)    ----> create the cte function and it can create temporary table
+    select * from CTE_name;          ----> use the temporary table in the main query    
+
+    with CTE_name as (select 
+    from 
+     where 
+     group by 
+     having 
+     order by 
+     limit)
+    select * from CTE_name;
+
+    multipal cte 
+
+    with cte2 as (SELECT
+    from table_name
+    WHERE
+    group BY
+    having
+    order by
+    limit),
+
+    cte3 as(SELECT
+    from cte2
+    WHERE
+    group BY
+    having
+    order by
+    limit)
+
+    select * from cte3
+
+# CTE with subquery
+
+with cte12 as(
+    select avg(salary) as avg_salary 
+    from employee
+)
+select department, avg(salary) 
+from employee
+where avg(salary)>(
+    select avg_salary
+    from cte12
+)
+
+# what is window function?
+    window function is a function that is used to calculate the values of a rows and it can not change the data in the table
+
+# what is partition by?
+
+group by vs partition by 
+
+    group by
+        it can be used to group the data based on the rows
+    partition by
+        it can be used to group the data based on the rows to calculate the value of a column but it can be not remove the original data
+
+
+# what is row number?
+    row number can be uesd to giving the row number of a column and the number was unique for each row it can create index like
+
+# what is rank?
+    rank can be uesd to giving the rank of a column and the number was same for same values it was giving gap between the rank
+
+# what is dense rank?
+    dense rank can be uesd to giving the rank of same values giving the same rank but not giving gap between the rank
+
+lag() ---> ye privious row ka value dega  and lead()  ----> ye next row ka value dega 
+
+
+
+# what is case and when?
+    case and when can return value based on the condition
+    it was like if elif else in python
+
+select 
+    case(
+        when value is = ? thne return value
+        when value is = ?? then return value
+        else 
+    end as case_name    
+    )
+from table_name
+
+for example:
+"""
+SELECT
+    CASE
+        WHEN salary >= 10000 THEN 'High'
+        WHEN salary >= 5000 THEN 'Medium'
+        ELSE 'Low'
+    END AS salary_category,
+    COUNT(*) AS total_employees
+FROM employees
+GROUP BY
+    CASE
+        WHEN salary >= 10000 THEN 'High'
+        WHEN salary >= 5000 THEN 'Medium'
+        ELSE 'Low'
+    END;
+"""
+if you want to give multiple condition then 
+
+SELECT
+    name,
+    salary,
+    CASE
+        WHEN salary >= 10000 AND department = 'IT'
+            THEN 'High IT Salary'
+
+        WHEN salary >= 10000
+            THEN 'High Salary'
+
+        WHEN salary < 5000
+            THEN 'Low Salary'
+
+        ELSE 'Normal Salary'
+    END AS salary_category
+FROM employees;
+
+
+
+
+what is complax number in python?
+return or yield ---> return ---> it can return 1 time  ,yield ---> it can return multiple times 
+partition by vs group by
+super key  ---> it can used to one or more columns that can uniquely identify the row ----> it can take extra column
+
+
+
+
+
+
+
+
+
+
+
+
+
+

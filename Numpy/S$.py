@@ -27,6 +27,7 @@ print(np.ceil(arr))
 
 """
 # log 
+    # log can work like 10 to the power of x
 # What power do I need to raise a number to, to get another number?
 
 arr =np.array([2,3,5,9,10])
