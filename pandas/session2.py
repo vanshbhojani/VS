@@ -46,6 +46,10 @@ print(wtf)
 # name --> can give a name to the series
 # index --> can give a index to the series
 
+# Series vs DataFrame
+# datafram me 2 mathod list or dict
+
+
 
 
 
