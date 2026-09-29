@@ -1,0 +1,6 @@
+machine_id,machine_name,temperature,rotational_speed,torque,tool_wear
+102,nksdalsd,40,90,2200,98,198000
+101,vanhs,70,120,3900,78,468000
+78,dasda,78,78,600,78,46800
+103,modi,78,900,50000,78,45000000
+104,mac,90,70,4000,78,280000
