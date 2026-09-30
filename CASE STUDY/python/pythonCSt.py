@@ -168,3 +168,6 @@ with open("CASE STUDY/python/machine.csv",mode = "r",newline ="")as file:
 
 
 
+
+
+
