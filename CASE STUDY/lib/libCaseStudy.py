@@ -9,11 +9,11 @@ import seaborn as sns
 
 df = pd.DataFrame({
     'Machine_ID' : ['M101','M102','M103','M104','M105','M106','M107','M108','M109','M110'],
-    'Temperature' : [78,85,68,75,80,70,65,60,70,75],
+    'Temperature' : np.random.randint(0,100,10),
     'Speed' : np.random.randint(0,10,10),
     'Torque' : np.random.randint(1400,1600,10),
     'Tool_Wear' : np.random.randint(0,60,10),
-    'Machine_Failure' : np.random.randint(0 ,2,10),
+    'Machine_Failure' : np.random.randint(0 ,2,10)
 })
 
 # print(df)
@@ -94,8 +94,6 @@ print(dataset[['Speed','Torque','power']])
 height_power = dataset['power'].max()
 low_power = dataset['power'].min()
 print(height_power,low_power)
-
-
 
 
 
