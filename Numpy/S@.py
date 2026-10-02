@@ -86,7 +86,7 @@ print(arr)
 arr= np.linspace(1,20,5,retstep=True) # 1 to 20 in 5 equal parts and return step size 
 print(arr)
 """
-
+"""
 import random 
 
 
@@ -110,6 +110,15 @@ arr2 = np.array([[1,2,3,4,5],
 np.random.seed(10)
 arr= np.random.randint(1,20,(3,4))  
 print(arr)
+"""
+# np.diagonal ---> it can return the diagonal of the matrix
+# np.tril ---> it can return the lower triangular part of the matrix
+# np.triu ---> it can return the upper triangular part of the matrix
 
+arr = np.array([[1,2,3],
+                [4,5,6],
+                [7,8,9]])
 
-
+print(np.diagonal(arr)) # it can return --> 1,5,9
+print(np.tril(arr)) # it can return -->2,3,6
+print(np.triu(arr)) # it can return -->4,7,8
