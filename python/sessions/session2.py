@@ -153,6 +153,31 @@ print(e)
 print(f)
 """
 
+# Logical Operators
+
+# and / or / not
+
+# and  : it will return True if both the operands are True
+
+age = 25
+if age>18 and age<30:
+    print("you are eligible to vote")
+else:   
+    print("you are not eligible to vote")
+
+# or   : it will return True if either the operands are True
+
+if age>18 or age<30:
+    print("you are eligible to vote")
+else:
+    print("you are not eligible to vote")
+
+# not  : it will return True if the operand is False
+
+if not age>=18:
+    print("your not eligible to vote")
+else:
+    print("you are eligible to vote")
 
 
 

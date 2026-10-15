@@ -50,11 +50,50 @@ print(type(True))
 # 5. list ---> list data type is a collection of data that is ordered and changeable
 print(type([1, 2, 3]))
 
+# append()	Add item at end default last
+# insert()	Add item at position default last
+# remove()	Remove specific value
+# pop()	    Remove by index default last
+# len()	    Get length
+# clear()	Remove everything 
+
+# List Methods & List Slicing
+
+# 1.append()	Add item at end default last
+# 2.insert()	Add item at position default last
+# 3.remove()	Remove specific value
+# 4.pop()	    Remove by index default last
+# 5.len()	    Get length
+# 6.clear()	    Remove everything
+# 7.extend()	Add list to list
+# 8.index()	    Get index of list
+# 9.count()	    Get count of list
+# 10.shot()	    Get slice of list
+# 11.reverse()	Reverse list
+# 12.sorted()	Creates a new sorted list.
+
+
 # 6. tuple ---> tuple data is a collection of data that is ordered and unchangeable
 print(type((1, 2, 3)))
 
+#  count()	Get length of tuple default 0
+# index()	Get index of tuple default 0
+
 # 7. dict ---> dict data type is a collection of data that is unordered,changeable and indexed by a key-value pair
 print(type({"name": "alice", "age": 20}))
+
+# keys()	Get keys of dict
+# values()	Get values of dict
+# items()	Get items of dict
+
+# example:
+
+info = {
+    "name " : ["alice", "vansh", "vishal"],
+    "age" : [20,30,10],
+    "gender" : ["female", "male","male"]
+}
+print(info)
 
 # 8. set ---> set is a samilar to list but it is unordered and unindexed and it is used to store unique values
 print(type({1, 2, 3}))
