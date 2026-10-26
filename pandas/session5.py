@@ -15,7 +15,7 @@ print(df)
 lol=df.dropna()
 print(lol)
 
-hihi = df.dropna(axis=1)
+hihi = df.dropna(axis=1) #dropna() is used to drop rows or columns that contain NaN values. In this case, it will drop any rows where the 'age' column has NaN values.
 print(hihi)
 
 hum = df.dropna(subset=['age']) # subset parameter is used to specify the column(s) to consider for dropping rows with NaN values. In this case, it will drop any rows where the 'age' column has NaN values.
