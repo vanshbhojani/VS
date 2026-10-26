@@ -47,7 +47,7 @@ print(wtf)
 # index --> can give a index to the series
 
 # Series vs DataFrame
-# datafram me 2 mathod list or dict
+# datafram me 2 mathod list or dict or series me
 
 
 

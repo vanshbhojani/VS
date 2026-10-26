@@ -104,9 +104,17 @@ HW :
 
 1. year wise total salary  
     ex :sum of all the salary of year 2023 : 68000 
+"""
 
-2. month wise total salary
-    ex : march  : sum of all the salary of march  
-    
+df['year_salary'] = df.groupby('year')['salary'].transform('sum')
+year_2023_salary = df[df['year'] == 2023]['salary'].sum()
+print(df)
+print("year_2023_salary : \n",year_2023_salary)
 
 """
+2. month wise total salary
+    ex : march  : sum of all the salary of march  
+"""
+
+march_salary = df[df['month'] == 3]['salary'].sum()
+print("march_salary : \n",march_salary)
