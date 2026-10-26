@@ -51,7 +51,11 @@ print(top5.head(5))
 # print(d_c)
 # print(d_c.columns)
 
-movies = movies.loc[:, movies.columns.notna() & (movies.columns != '')]
+mo = movies.loc[:, movies.columns.notna() & (movies.columns != '')]  # it can use column name too 
+
+print(mo)
+
+movies.drop(movies.columns[0], axis=1, inplace=True) 
 
 print(movies)
 
@@ -64,8 +68,6 @@ print(movies)
 4. outer join   :  
 
 """
-
-import pandas as pd
 
 # First DataFrame
 """df_customers = pd.DataFrame({
