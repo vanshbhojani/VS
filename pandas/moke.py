@@ -17,9 +17,6 @@ df.sort_values(by=['salary'],ascending=False,inplace=True)
 print(df)
 print(df.tail(5)[["name"]].reset_index(drop=True))
 
-# df['salary'] = df['salary'].reset_index(drop=True)
-# print(df)
-
 # df['date'] = pd.to_datetime(["2020-01-01" , "2021-12-31" , "2022-01-01" , "2023-2-12" , "2024-1-12" , "2025-2-12" , "2026-3-12" , "2027-4-12" , "2028-5-12" , "2029-6-12"])
 
 # print(df['date'])
